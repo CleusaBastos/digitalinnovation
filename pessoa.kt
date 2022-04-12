@@ -14,5 +14,5 @@ fun main() {
     printin(jether.nome)
     printin(jether.cpf)
 
-    printin(jether.endereco().rua)
+    
 }
